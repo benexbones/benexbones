@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 
 
 ## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
