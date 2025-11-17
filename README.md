@@ -1,4 +1,5 @@
 ## Hi there, I'm Bones 👋
+As an AI Solutions Engineer and a BS Computer Engineering graduate from Batangas State University - National Engineering University, I design and build AI automations tailored to diverse business needs, specializing in chatbots. I focus on creating intelligent systems that streamline processes and enhance customer interactions."
 
 <!--
 **benexbones/benexbones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
