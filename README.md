@@ -59,6 +59,17 @@ Here are some ideas to get you started:
 
 </div>
 
+---
+
+### 🌱 I'm currently learning
+I enjoy discovering new things and staying current with emerging tech
+
+### 🤝 Let's collaborate
+If you’re working on an exciting community-driven project and want to team up, email me at benedickmagalona26@gmail.com. Let’s create something great together!
+
+**Appreciate you dropping by! 👋**
+
+
 
 
 
