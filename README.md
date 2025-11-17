@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 💻 Tech Stack
+![GCP](https://img.shields.io/badge/GCP-1A73E8?logo=googlecloud&logoColor=fff)
