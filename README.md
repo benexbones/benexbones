@@ -32,6 +32,3 @@ Here are some ideas to get you started:
 ![ChatBotBuilder](https://img.shields.io/badge/ChatBotBuilder-%20?style=for-the-badge&labelColor=ffffff&color=2ea44f&logoColor=white)
 
 
-Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
