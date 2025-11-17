@@ -28,3 +28,5 @@ Here are some ideas to get you started:
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-4B5563?logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-0EA5E9?logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-1A73E8?logo=googlecloud&logoColor=fff)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![ChatBotBuilder](https://img.shields.io/badge/ChatBotBuilder-0B5FFF?logoColor=white)
