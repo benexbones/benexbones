@@ -31,3 +31,7 @@ Here are some ideas to get you started:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![ChatBotBuilder](https://img.shields.io/badge/ChatBotBuilder-%20?style=for-the-badge&labelColor=ffffff&color=2ea44f&logoColor=white)
 
+
+## Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes)
+
