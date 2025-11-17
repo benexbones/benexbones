@@ -34,14 +34,31 @@ Here are some ideas to get you started:
 
 ## GitHub Stats:
 
-<!-- Streak (demolab) -->
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<div align="center">
 
-<!-- Activity stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <!-- Streak -->
+  <img
+    src="https://streak-stats.demolab.com?user=benexbones&theme=tokyonight&hide_border=true&date_format=M%20j%5B,%20Y%5D&v=2"
+    alt="GitHub Streak for benexbones"
+    height="180"
+  />
 
-<!-- Top languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <!-- Activity -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=benexbones&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&v=2"
+    alt="GitHub Stats for benexbones"
+    height="180"
+  />
+
+  <!-- Top languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=benexbones&layout=compact&theme=tokyonight&hide_border=true&v=2"
+    alt="Top Languages for benexbones"
+    height="180"
+  />
+
+</div>
+
 
 
 
