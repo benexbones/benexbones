@@ -44,13 +44,6 @@ Here are some ideas to get you started:
     height="180"
   />
 
-  <!-- Activity -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=benexbones&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&v=2"
-    alt="GitHub Stats for benexbones"
-    height="180"
-  />
-
   <!-- Top languages -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=benexbones&layout=compact&theme=tokyonight&hide_border=true&v=2"
