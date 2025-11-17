@@ -32,4 +32,32 @@ Here are some ideas to get you started:
 ![ChatBotBuilder](https://img.shields.io/badge/ChatBotBuilder-%20?style=flat&color=2ea44f&labelColor=2ea44f&logoColor=white)
 
 
+## GitHub Stats:
+
+<div align="center">
+
+  <!-- Streak / Contributions panel -->
+  <img 
+    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
+    alt="GitHub Streak" 
+    height="180"
+  />
+
+  <!-- General activity stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" 
+    alt="GitHub Stats" 
+    height="180"
+  />
+
+  <!-- Most used languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Top Languages" 
+    height="180"
+  />
+
+</div>
+
+
 
