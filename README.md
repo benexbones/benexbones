@@ -34,30 +34,15 @@ Here are some ideas to get you started:
 
 ## GitHub Stats:
 
-<div align="center">
+<!-- Streak (demolab) -->
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 
-  <!-- Streak / Contributions panel -->
-  <img 
-    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
-    alt="GitHub Streak" 
-    height="180"
-  />
+<!-- Activity stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-  <!-- General activity stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" 
-    alt="GitHub Stats" 
-    height="180"
-  />
+<!-- Top languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
-  <!-- Most used languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" 
-    alt="Top Languages" 
-    height="180"
-  />
-
-</div>
 
 
 
